@@ -25,7 +25,7 @@ public class SceneSwitchWindow : EditorWindow
 
         using (var disableGroup = new EditorGUI.DisabledGroupScope(EditorApplication.isPlaying))
         {
-            GUILayout.Label("Scenes In Build", EditorStyles.boldLabel);
+            GUILayout.Label("Scenes In Build Settings", EditorStyles.boldLabel);
             for (var i = 0; i < EditorBuildSettings.scenes.Length; i++)
             {
                 var scene = EditorBuildSettings.scenes[i];

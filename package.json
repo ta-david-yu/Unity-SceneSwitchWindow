@@ -1,0 +1,12 @@
+{
+    "name": "com.ta-david-yu.sceneswitchwindow",
+    "displayName": "DY.SceneSwitchWindow",
+    "version": "1.0.1",
+    "description": "Scene switching window for Unity Editor",
+    "keywords": [],
+    "author": {
+        "name": "Ta David Yu",
+        "email": "d366095@gmail.com",
+        "url": "https://github.com/ta-david-yu"
+    }
+}

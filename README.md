@@ -1,4 +1,6 @@
 # SceneSwitchWindow
+![UI Preview](https://i.imgur.com/TcWMdH9.png)
+A GUI Window that shows the list of scenes added in the build settings.
 
 ## Quick Package Install
 
